@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Shreyas Ashtamkar
+- 👀 I'm a curious soul, trying to create small uilities at my own workplace.
+- 🌱 I’m currently learning Life itself.
